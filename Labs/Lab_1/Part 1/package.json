@@ -1,0 +1,17 @@
+{
+  "name": "lab_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install express --save",
+    "start": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "http-server": "^0.11.1",
+    "massive": "^4.6.4"
+  }
+}
