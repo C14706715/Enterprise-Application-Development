@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "",
+  "description": "Module-Enterprise Application Development",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
